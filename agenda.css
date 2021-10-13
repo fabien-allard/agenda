@@ -1,0 +1,174 @@
+*{
+list-style: none;
+}
+
+body{
+ margin: 55px;
+ height: 100%;
+ background-image: url(https://images2.alphacoders.com/542/thumb-1920-542730.png);
+
+}
+
+body caption{
+    color: red;
+
+}
+ label {
+    display: flex;
+    font: 1rem 'Fira Sans', sans-serif;
+    text-align: center;
+}
+
+select{
+     margin-top: 50px;
+ }
+
+input{
+    width: 500px;
+    height: 50px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    margin-top: 15px;
+    font-size: 18px;
+}
+
+input button{
+    margin-top: 45px;
+    font-size: 15px;
+}
+
+
+
+.btn input{
+    margin-top:150px;
+    
+}
+button li a{
+    color:red
+}
+nav li a{
+    text-align: center;
+    align-items: center;
+    list-style: none;
+    text-decoration: none;
+    color:#ffff;
+    justify-content: center;
+    size: 1500px;
+    margin-bottom: 155px;
+}
+p{
+    color:mediumvioletred;
+    font-size: 16px;
+}
+nav li a:hover{
+    color:lightseagreen;
+}
+
+label {
+    margin: .4rem 0;
+    margin-top: 40px;
+}
+caption{
+    color: red;
+}
+
+.PremiéreCatégorie{
+    width: 100%;
+    cursor: pointer;
+}
+.navbar li a {
+    font-size: 20px;
+    color:crimson;
+    top:0px;
+    left:0px;
+}
+
+th{
+    font-size: 25px;
+    width:300px;
+    background: linear-gradient(blue, white);
+      }
+ td{
+        background-color:white ;
+        text-align: center;
+        height: 100px;
+        list-style: none;
+        color:blue;
+        background-color: lightblue;
+}
+
+#Hours{
+    color:green;
+    background-color:#f0f8ff ;
+}
+#Repas7{
+    background-color: cornflowerblue;
+    color: red;
+    text-align: center;
+}
+#Repos1{
+background-color: crimson;
+color: black;
+text-align: center;
+}
+
+
+#Coding10{
+    color: black;
+    text-align: center;
+}
+#Coding11{
+color:black;
+background-color: blueviolet;
+}
+#Cod12{
+    color: black;
+    background-color:brown
+}
+
+
+#English10{
+    background-color:green;
+    color: black;
+    text-align: center;
+}
+h1{
+    color: crimson;
+    text-align: center;
+    margin-top: 58px;
+    font-size: 35px;
+}
+
+td li a {
+    color:crimson;
+    text-decoration: none;
+    margin-left:20px;
+    border:0;
+    text-align: center;
+}
+
+
+
+ button  {
+    color: black;
+    font-size: 15px;
+    font-family:'Kaushan Script', cursive;
+    outline: none;
+    margin-top: 25px;
+    cursor:pointer;
+}
+
+
+
+#BtnFormulaire{
+    text-decoration: none;
+    list-style: none;
+}
+
+button :hover{
+
+     color:black;
+     border-radius:1px;
+     box-shadow: 0 0 10px #33ffff,
+                 0 0 10px #66ffff;
+}
